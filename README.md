@@ -18,7 +18,7 @@ Olá, eu sou o Arnaldo! 🇧🇷
 </h3>
 
 ```
-Estudante de Engenharia de Software pela Universidade Pitágoras, 
+Estudante de Engenharia de Software pela Faculdade Pitágoras Ampli, 
 formado em História e atualmente cursando Engenharia de Software com intuito de entrar no mercado de tecnologia.
 ```
 ## Tecnologias que estou estudando atualmente 💻
