@@ -35,7 +35,7 @@ formado em História e atualmente cursando Engenharia de Software com intuito de
 
 - Estou interessado em atuar na área de tecnologia da informação
 
-- Sou servidor publico do TJ-MG atuado como Oficial Judiciário. 😄
+- Sou servidor publico do TJ-MG atuando como Oficial Judiciário. 😄
 
 - Estou cursando Engenharia de Software. 💻
 
