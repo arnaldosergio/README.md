@@ -4,43 +4,42 @@
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
+<!-- [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
-</h4>
+</h4> -->
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Arthur! 🇧🇷
+Olá, eu sou o Arnaldo! 🇧🇷
 <br>
 
 </h3>
 
 ```
-Estudante de Ciência da Computação pela UNIT - Centro Universitário Tiradentes, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Estudante de Engenharia de Software pela Universidade Pitágoras, 
+formado em História e atualmente cursando Engenharia de Software com intuito de entrar no mercao de tecnologia.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
   - HTML
   - CSS
   - JavaScript
-  - React
   - Java
-  - MongoDB
-  - MySQL
+  - Python
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/arthurspk/guiadevbrasil)
+- Eu sou formado em história pela UFAL - Universidade Federal de Alagoas
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- Estou interessado em atuar na área de tecnologia da informação
 
-- Estou cursando Ciência da Computação. 💻
+- Sou servidor publico do TJ-MG atuado como Oficial Judiciário. 😄
 
-## Meu Linktree [:link:](https://linktr.ee/arthurspk)
+- Estou cursando Engenharia de Software. 💻
+
+## Meu Linkedin [:link:](https://www.linkedin.com/in/arnaldo-sergio-oliveira-2ba70b35/)
 
 ## Meus dados no Github
 
@@ -48,8 +47,8 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaldosergio&show_icons=true&theme=tokyonight)
+[![arnaldosergio](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldosergio&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arnaldosergio)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
