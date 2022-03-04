@@ -31,7 +31,7 @@ formado em História e atualmente cursando Engenharia de Software com intuito de
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Eu sou formado em história pela UFAL - Universidade Federal de Alagoas
+- Eu sou formado em História pela UFAL - Universidade Federal de Alagoas
 
 - Estou interessado em atuar na área de tecnologia da informação
 
